@@ -1,7 +1,7 @@
 # 🃏 The Ultimatum Game – Code Review Edition  
 
 ## 📜 Game Rules  
-1. **Proposer:** You receive **10 pts** in OOSE (hypothetically). You must decide how much to offer your partner.  
+1. **Proposer:** You receive **$100** (hypothetically). You must decide how much to offer your partner.  
 2. **Responder:** Your partner will review your offer and either:  
    - **Accept**: Both of you receive the proposed amounts.  
    - **Reject**: Neither of you gets anything.  
