@@ -11,19 +11,16 @@
 
 ## 🚀 How to Play in GitHub  
 
-### 🔹 Step 1: Fork & Clone the Repo  
-- Each pair forks this repository and clones it locally.  
-
-### 🔹 Step 2: Proposer Submits Offer  
+### 🔹 Step 1: Proposer Submits Offer  
 - The proposer creates a new text file named **`yourname.txt`** (e.g., `alice.txt`).  
-- Inside the file, they write:  
+- Inside the file, write:  
 
   ```txt
   I offer $X to my partner.
   ```
-- They commit and push their file, then open a pull request.
+- Commit and push their file, then open a pull request.
 
-### 🔹 Step 3: Responder Reviews the Offer
+### 🔹 Step 2: Responder Reviews the Offer
 - The responder visits the PR and leaves a comment:
 - Accept: “I accept this offer.”
 - Reject: “I reject this offer.”
