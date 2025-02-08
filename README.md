@@ -18,11 +18,11 @@
   ```txt
   I offer $X to my partner.
   ```
-- Commit and push their file, then open a pull request.
+- Commit and push your file, then open a pull request.
 
 ### 🔹 Step 2: Responder Reviews the Offer
 - The responder visits the PR and leaves a comment:
-- Accept: “I accept this offer.”
-- Reject: “I reject this offer.”
+   - Accept: “I accept this offer.”
+   - Reject: “I reject this offer.”
 - If accepted, the responder merges the PR.
 - If rejected, the responder closes the PR without merging.
