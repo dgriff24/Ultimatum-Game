@@ -22,7 +22,7 @@
   I offer $X to my partner.
   ```
 - They commit and push their file, then open a pull request.
-- 
+
 ### 🔹 Step 3: Responder Reviews the Offer
 - The responder visits the PR and leaves a comment:
 - Accept: “I accept this offer.”
