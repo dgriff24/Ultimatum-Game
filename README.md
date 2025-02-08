@@ -11,7 +11,11 @@
 
 ## 🚀 How to Play in GitHub  
 
-### 🔹 Step 1: Proposer Submits Offer  
+### 🔹 Step 1: Fork & Clone the Repo  
+- Each pair forks this repository.  
+- Invite your partner and `dgriff24` to your repository.
+
+### 🔹 Step 2: Proposer Submits Offer  
 - The proposer creates a new text file named **`yourname.txt`** (e.g., `alice.txt`).  
 - Inside the file, write:  
 
@@ -20,7 +24,7 @@
   ```
 - Commit and push your file, then open a pull request.
 
-### 🔹 Step 2: Responder Reviews the Offer
+### 🔹 Step 3: Responder Reviews the Offer
 - The responder visits the PR and leaves a comment:
    - Accept: “I accept this offer.”
    - Reject: “I reject this offer.”
